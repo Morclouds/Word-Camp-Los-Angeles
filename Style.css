@@ -1,2 +1,8 @@
+p{
+    color: #023e8a;
+}
 
-
+.jumbotron {
+background-image: url(images/marjorie-manfre-CvMAaXAf0yQ-unsplash.jpg);
+background-size: cover;
+}
