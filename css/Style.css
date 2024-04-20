@@ -1,7 +1,9 @@
-p {
+body p {
   color: #023e8a;
 }
-
-body {
-  background-color: #fff8e7;
+body h3 {
+  color: #3a3b3c;
+}
+body h4 {
+  color: #dc4d01;
 }/*# sourceMappingURL=Style.css.map */
