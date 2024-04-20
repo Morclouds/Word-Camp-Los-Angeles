@@ -1,15 +1,5 @@
-/* Variables */
-$color-blue: #023e8a;
-$background: #fff8e7;
-$assetPath :"/assets/images";
 
-body { 
-p {
-  color: $color-blue
+p{
+  color: #023e8a;
 }
-
-background-color: $background;
-}
-
-
 
