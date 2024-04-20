@@ -1,8 +1,10 @@
- p {
-    color: #023e8a;
-  }
+$color-blue: #023e8a;
+$background: #fff8e7;
 
-  .jumbotron {
-    background-image: url( images );
-background-size: cover;
-  }
+
+p{
+  color: $color-blue
+}
+body{
+  background-color: $background;
+}
